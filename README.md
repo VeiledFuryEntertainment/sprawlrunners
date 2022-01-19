@@ -114,5 +114,7 @@ If you're looking for help in figuring out how to do something, the *Savage Worl
 ## License
 
 *Sprawlrunners* © 2019 - 2022 Manuel “ManuFS” Sambs
+
 Originally converted to VTT by Sigil Entertainment Group (http://sigil.info/), fan maintained since Jan 2022.
+
 This game references the *Savage Worlds* game system, available from Pinnacle Entertainment Group at (https://www.peginc.com). *Savage Worlds* and all associated logos and trademarks are copyrights of Pinnacle Entertainment Group. Used with permission. Pinnacle makes no representation or warranty as to the quality, viability, or suitability for purpose of this product.
