@@ -100,7 +100,7 @@ Contains all of the powers, Edges, Hindrances, Skills, and gear in the *Sprawlru
 ## Other Modules
 ### Required Modules
 <b>Compendium Folders</b>  
-This (free) module must be installed as a dependency, as it's used to organize the *Savage Worlds* compendium packs in folders until Foundry adds this feature in the core functionality.  
+This (free) module must be installed, as it's used to organize the *Savage Worlds* compendium packs in folders until Foundry adds this feature in the core functionality.  
 https://foundryvtt.com/packages/compendium-folders/
 
 ## FAQ
