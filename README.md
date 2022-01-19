@@ -66,7 +66,7 @@ This module is compatible with both your existing Foundry worlds and any new wor
 1. <b>Enable the module</b>
 
     a. Switch to the <b>Settings</b> sidebar and click the Gear icon in the top right.
-    ![Settings](https://gitlab.com/peginc/core-rules-issues/-/raw/master/assets/instructions/settings.png)
+    ![Settings](https://github.com/VeiledFuryEntertainment/sprawlrunners/blob/main/assets/instructions/activate.webp)
     b. Click the <b>Manage Modules</b>.
 
     c. Click the checkbox next to the <b>*Sprawlrunners Core Rules* option</b>.
