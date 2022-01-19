@@ -25,7 +25,7 @@ This module is compatible with both your existing Foundry worlds and any new wor
 4. <b>Enable the module</b>
 
     a. Switch to the <b>Settings</b> sidebar and click the Gear icon in the top right.  
-    ![Settings](https://gitlab.com/peginc/core-rules-issues/-/raw/master/assets/instructions/settings.png)  
+    ![Settings](https://raw.githubusercontent.com/VeiledFuryEntertainment/sprawlrunners/main/assets/instructions/activate.webp)
     b. Click the <b>Manage Modules</b>  
 
     c. Click the checkbox next to the <b>*Sprawlrunners Core Rules* option</b>
@@ -45,10 +45,10 @@ Download the module from DTRPG
 1. <b>Open <a href="https://forge-vtt.com/">The Forge</a></b>
 Log in to your Forge account and chose "Configure" on your Foundry Instance.
 
-    a. Under <b>Table Tools</b> select <b>Summon Import Wizard</b> .  
-    ![Summon Import Wizard](https://gitlab.com/sigil-vtt-projects/sprawlrunners/sprawlrunners/-/raw/master/assets/instructions/SummonImportWizard.png)  
-    b. Click <b>ZIP File</b>  
-    ![Zip File](https://gitlab.com/sigil-vtt-projects/sprawlrunners/sprawlrunners/-/raw/master/assets/instructions/ZipFile.png)  
+    a. Under <b>Table Tools</b> select <b>Summon Import Wizard</b>.
+    ![Summon Import Wizard](https://raw.githubusercontent.com/VeiledFuryEntertainment/sprawlrunners/main/assets/instructions/SummonImportWizard.webp)
+    b. Click <b>ZIP File</b>
+    ![Zip File](https://raw.githubusercontent.com/VeiledFuryEntertainment/sprawlrunners/main/assets/instructions/ZipFile.webp)
 
     c. Click the <b>Browse</b> button and select the Sprawlrunners zip file: <b>SprawlRunners-FVTT-module.zip</b>
 
@@ -58,22 +58,22 @@ Log in to your Forge account and chose "Configure" on your Foundry Instance.
 
     f. Click the <b>Finish</b> and then <b>Close</b> buttons to load Sprawlrunners into your foundry instance.
 
-    g. Click the <b>Launch My Foundry</b> button to load your foundry instance.  
+    g. Click the <b>Launch My Foundry</b> button to load your foundry instance.
     
 1. <b>Load a world</b>
 This module is compatible with both your existing Foundry worlds and any new worlds you create. Make sure that the world uses the *SWADE* game system. 
 
 1. <b>Enable the module</b>
 
-    a. Switch to the <b>Settings</b> sidebar and click the Gear icon in the top right.  
-    ![Settings](https://gitlab.com/peginc/core-rules-issues/-/raw/master/assets/instructions/settings.png)  
-    b. Click the <b>Manage Modules</b>  
+    a. Switch to the <b>Settings</b> sidebar and click the Gear icon in the top right.
+    ![Settings](https://gitlab.com/peginc/core-rules-issues/-/raw/master/assets/instructions/settings.png)
+    b. Click the <b>Manage Modules</b>.
 
-    c. Click the checkbox next to the <b>*Sprawlrunners Core Rules* option</b>
+    c. Click the checkbox next to the <b>*Sprawlrunners Core Rules* option</b>.
 
-    d. When a message displays asking you to activate the "Compendium Folders" dependency, click <b>Yes</b>  
+    d. When a message displays asking you to activate the "Compendium Folders" dependency, click <b>Yes</b>.
     
-    e. Click the <b>Save Module Settings</b> button
+    e. Click the <b>Save Module Settings</b> button.
 
 1. <b>Welcome to the Sprawl, friends!</b>
 Navigate to the <b>Compendium Packs</b> sidebar by clicking the book icon located directly to the left of the gear icon that you used to access the <b>Settings</b> sidebar in the top right.
