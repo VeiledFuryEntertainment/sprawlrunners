@@ -24,8 +24,10 @@ This module is compatible with both your existing Foundry worlds and any new wor
  
 4. <b>Enable the module</b>
 
-    a. Switch to the <b>Settings</b> sidebar and click the Gear icon in the top right.  
-    ![Settings](https://raw.githubusercontent.com/VeiledFuryEntertainment/sprawlrunners/main/assets/instructions/activate.webp)
+    a. Switch to the <b>Settings</b> sidebar and click the Gear icon in the top right.
+    
+    ![Settings](https://github.com/VeiledFuryEntertainment/sprawlrunners/blob/main/assets/instructions/activate.webp)
+    
     b. Click the <b>Manage Modules</b>  
 
     c. Click the checkbox next to the <b>*Sprawlrunners Core Rules* option</b>
@@ -46,9 +48,12 @@ Download the module from DTRPG
 Log in to your Forge account and chose "Configure" on your Foundry Instance.
 
     a. Under <b>Table Tools</b> select <b>Summon Import Wizard</b>.
-    ![Summon Import Wizard](https://raw.githubusercontent.com/VeiledFuryEntertainment/sprawlrunners/main/assets/instructions/SummonImportWizard.webp)
+    
+    ![Summon Import Wizard](https://github.com/VeiledFuryEntertainment/sprawlrunners/blob/main/assets/instructions/SummonImportWizard.webp)
+    
     b. Click <b>ZIP File</b>
-    ![Zip File](https://raw.githubusercontent.com/VeiledFuryEntertainment/sprawlrunners/main/assets/instructions/ZipFile.webp)
+    
+    ![Zip File](https://github.com/VeiledFuryEntertainment/sprawlrunners/blob/main/assets/instructions/ZipFile.webp)
 
     c. Click the <b>Browse</b> button and select the Sprawlrunners zip file: <b>SprawlRunners-FVTT-module.zip</b>
 
@@ -66,7 +71,9 @@ This module is compatible with both your existing Foundry worlds and any new wor
 1. <b>Enable the module</b>
 
     a. Switch to the <b>Settings</b> sidebar and click the Gear icon in the top right.
+    
     ![Settings](https://github.com/VeiledFuryEntertainment/sprawlrunners/blob/main/assets/instructions/activate.webp)
+    
     b. Click the <b>Manage Modules</b>.
 
     c. Click the checkbox next to the <b>*Sprawlrunners Core Rules* option</b>.
