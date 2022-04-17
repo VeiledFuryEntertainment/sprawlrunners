@@ -17,7 +17,11 @@ Follow these steps to get started using this module in your copy of Foundry Virt
 Download the module from DTRPG
 
 2. <b>Extract the module</b>
-Navigate to your chosen User Data Path (https://foundryvtt.com/article/configuration/) and extract the content of the zip file into the data/modules subfolder. There should be a sprawl-core-rules folder in the modules folder, and in that should be a "module.json" file. Start Foundry and look under the Add-on Modules tab. You should find a module called "Sprawlrunners Core Rules" there.
+Extract the content into your `Data` folder. If you don't know where that is, you can find it in the `Configuration` tab in Foundry (see also https://foundryvtt.com/article/configuration/).
+![Where to find your datapath](https://github.com/Tommycore/technomancers-official/blob/main/img/datapath.jpg)
+You should now have a folder called `[YOUR DATA PATH]/Data/modules/sprawl-core-rules`. In there should be a module.json.
+![How it should look like](https://github.com/VeiledFuryEntertainment/sprawlrunners/blob/main/img/folderstructure.jpg)
+Start Foundry and look under the Add-on Modules tab. You should find a module called "Sprawlrunners Core Rules" there.
 
 3. <b>Load a world</b>
 This module is compatible with both your existing Foundry worlds and any new worlds you create. Make sure that the world uses the *SWADE* game system. 
