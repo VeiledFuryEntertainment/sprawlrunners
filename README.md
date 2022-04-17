@@ -17,15 +17,21 @@ Follow these steps to get started using this module in your copy of Foundry Virt
 Download the module from DTRPG
 
 2. <b>Extract the module</b>
-Navigate to your chosen User Data Path (https://foundryvtt.com/article/configuration/) and extract the content of the zip file into the data/modules subfolder. There should be a sprawl-core-rules folder in the modules folder, and in that should be a "module.json" file. Start Foundry and look under the Add-on Modules tab. You should find a module called "Sprawlrunners Core Rules" there.
+Extract the content into your `Data` folder. If you don't know where that is, you can find it in the `Configuration` tab in Foundry (see also https://foundryvtt.com/article/configuration/).
+![Where to find your datapath](https://github.com/Tommycore/technomancers-official/blob/main/img/datapath.jpg)
+You should now have a folder called `[YOUR DATA PATH]/Data/modules/sprawl-core-rules`. In there should be a module.json.
+![How it should look like](https://github.com/VeiledFuryEntertainment/sprawlrunners/blob/main/img/folderstructure.jpg)
+Start Foundry and look under the Add-on Modules tab. You should find a module called "Sprawlrunners Core Rules" there.
 
 3. <b>Load a world</b>
 This module is compatible with both your existing Foundry worlds and any new worlds you create. Make sure that the world uses the *SWADE* game system. 
  
 4. <b>Enable the module</b>
 
-    a. Switch to the <b>Settings</b> sidebar and click the Gear icon in the top right.  
-    ![Settings](https://raw.githubusercontent.com/VeiledFuryEntertainment/sprawlrunners/main/assets/instructions/activate.webp)
+    a. Switch to the <b>Settings</b> sidebar and click the Gear icon in the top right.
+    
+    ![Settings](https://github.com/VeiledFuryEntertainment/sprawlrunners/blob/main/assets/instructions/activate.webp)
+    
     b. Click the <b>Manage Modules</b>  
 
     c. Click the checkbox next to the <b>*Sprawlrunners Core Rules* option</b>
@@ -46,9 +52,12 @@ Download the module from DTRPG
 Log in to your Forge account and chose "Configure" on your Foundry Instance.
 
     a. Under <b>Table Tools</b> select <b>Summon Import Wizard</b>.
-    ![Summon Import Wizard](https://raw.githubusercontent.com/VeiledFuryEntertainment/sprawlrunners/main/assets/instructions/SummonImportWizard.webp)
+    
+    ![Summon Import Wizard](https://github.com/VeiledFuryEntertainment/sprawlrunners/blob/main/assets/instructions/SummonImportWizard.webp)
+    
     b. Click <b>ZIP File</b>
-    ![Zip File](https://raw.githubusercontent.com/VeiledFuryEntertainment/sprawlrunners/main/assets/instructions/ZipFile.webp)
+    
+    ![Zip File](https://github.com/VeiledFuryEntertainment/sprawlrunners/blob/main/assets/instructions/ZipFile.webp)
 
     c. Click the <b>Browse</b> button and select the Sprawlrunners zip file: <b>SprawlRunners-FVTT-module.zip</b>
 
@@ -66,7 +75,9 @@ This module is compatible with both your existing Foundry worlds and any new wor
 1. <b>Enable the module</b>
 
     a. Switch to the <b>Settings</b> sidebar and click the Gear icon in the top right.
-    ![Settings](https://gitlab.com/peginc/core-rules-issues/-/raw/master/assets/instructions/settings.png)
+    
+    ![Settings](https://github.com/VeiledFuryEntertainment/sprawlrunners/blob/main/assets/instructions/activate.webp)
+    
     b. Click the <b>Manage Modules</b>.
 
     c. Click the checkbox next to the <b>*Sprawlrunners Core Rules* option</b>.
@@ -93,7 +104,7 @@ Contains all of the powers, Edges, Hindrances, Skills, and gear in the *Sprawlru
 ## Other Modules
 ### Required Modules
 <b>Compendium Folders</b>  
-This module is installed as a dependency, as it's used to organize the *Savage Worlds* compendium packs in folders until Foundry adds this feature in the core functionality.  
+This (free) module must be installed, as it's used to organize the *Savage Worlds* compendium packs in folders until Foundry adds this feature in the core functionality.  
 https://foundryvtt.com/packages/compendium-folders/
 
 ## FAQ
@@ -114,5 +125,7 @@ If you're looking for help in figuring out how to do something, the *Savage Worl
 ## License
 
 *Sprawlrunners* © 2019 - 2022 Manuel “ManuFS” Sambs
+
 Originally converted to VTT by Sigil Entertainment Group (http://sigil.info/), fan maintained since Jan 2022.
+
 This game references the *Savage Worlds* game system, available from Pinnacle Entertainment Group at (https://www.peginc.com). *Savage Worlds* and all associated logos and trademarks are copyrights of Pinnacle Entertainment Group. Used with permission. Pinnacle makes no representation or warranty as to the quality, viability, or suitability for purpose of this product.
