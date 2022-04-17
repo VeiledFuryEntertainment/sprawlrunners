@@ -20,7 +20,7 @@ Download the module from DTRPG
 Extract the content into your `Data` folder. If you don't know where that is, you can find it in the `Configuration` tab in Foundry (see also https://foundryvtt.com/article/configuration/).
 ![Where to find your datapath](https://github.com/Tommycore/technomancers-official/blob/main/img/datapath.jpg)
 You should now have a folder called `[YOUR DATA PATH]/Data/modules/sprawl-core-rules`. In there should be a module.json.
-![How it should look like](https://github.com/VeiledFuryEntertainment/sprawlrunners/blob/main/img/folderstructure.jpg)
+![How it should look like](https://github.com/VeiledFuryEntertainment/sprawlrunners/blob/main/assets/instructions/folderstructure.jpg)
 Start Foundry and look under the Add-on Modules tab. You should find a module called "Sprawlrunners Core Rules" there.
 
 3. <b>Load a world</b>
